@@ -1,5 +1,5 @@
 # PythonPip
-Using PIP
+PIP first steps.
 
 ## Installing a package
 ``python -m pip install -U package_name``
