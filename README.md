@@ -1,5 +1,6 @@
 # PythonPip
-PIP first steps.
+
+📦 Primeiros passos para usar o PIP.
 
 ## Installing a package
 ``python -m pip install -U package_name``
