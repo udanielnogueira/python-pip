@@ -2,13 +2,21 @@
 
 📦 Primeiros passos para usar o PIP.
 
-## Installing a package
+## Instalando um pacote
+
 ``python -m pip install -U package_name``
 
-## Upgrading PIP
+### Exemplo
+
+python -m pip install emoji
+
+python -m pip install PySimpleGUI
+
+## Atualizando o PIP
+
 ``python -m pip install --upgrade pip``
 
-## Useful links
+## Links úteis
 
 - <a href="https://pt.stackoverflow.com/questions/239047/como-instalar-o-pip-no-windows-10">Como instalar o PIP no Windows</a>
 
