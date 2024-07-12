@@ -1,6 +1,6 @@
-# PythonPip
+# python-pip
 
-📦 Primeiros passos para usar o PIP.
+Primeiros passos para usar o PIP.
 
 ## Instalando um pacote
 
