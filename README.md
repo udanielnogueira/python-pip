@@ -1,4 +1,4 @@
-# python-pip
+# Python Pip
 
 Primeiros passos para usar o PIP.
 
